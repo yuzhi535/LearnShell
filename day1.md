@@ -16,4 +16,4 @@ str='this is a string'
 
 ## 字符串操作
 
-![string-usage](/home/sasuke/LearnShell/img/string-usage.png)
+![string-usage](./img/string-usage.png)
